@@ -1,7 +1,0 @@
-We need to do these by the end of the semester:
-- Have character models
-- Have a map
-- Have a working flying mechanic
-- Have an enemy AI
-- Have the ability to score a goal
-- Have the ability to pass and throw the ball
