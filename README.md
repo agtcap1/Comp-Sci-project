@@ -7,4 +7,6 @@ Gawain and I, KC, are working on building a functional Quidditch game with in Un
   
 [Mockup](https://github.com/agtcap1/Comp-Sci-project/wiki/Mockup)  
   
-[Screenshots](https://github.com/agtcap1/Comp-Sci-project/wiki/Screenshots)  
+[Test Plan](https://github.com/agtcap1/Comp-Sci-project/wiki/Test-Plan)  
+  
+[Screenshots](https://github.com/agtcap1/Comp-Sci-project/wiki/Screenshot)  
